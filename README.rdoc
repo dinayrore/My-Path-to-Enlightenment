@@ -1,6 +1,8 @@
-= Neo Ruby Koans
+= My Path to Enlightenment
 
 I have created this repository to track my "path to enlightenment" as I continue to use Ruby fundamentals and descriptive yet concise git commits. Below is the official README documentation for Neo Ruby Koans. Please visit: http://rubykoans.com/ to download the program on your own machine and follow your own path to enlightenment!
+
+= Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
 The goal is to learn the Ruby language, syntax, structure, and some common
